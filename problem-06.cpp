@@ -18,3 +18,4 @@ int main() {
     
     return 0;
 }
+//inshaallah next jan ttaki codeforce active thakmu..
